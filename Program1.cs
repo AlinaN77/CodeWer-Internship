@@ -6,8 +6,6 @@
 */
 
 using System;
-using System.Globalization;
-using System.Runtime.CompilerServices;
 
 int og = 0;// variabila pentru oglindirea numarului
 Console.WriteLine("Introduceti un numar: ");
